@@ -2,6 +2,8 @@
 <p align="center">I'm a Sr. Software Engineer & Youtube Content Creator.
 <p align='center'>For enquiries, reach out @ nareshgupta1406@gmail.com or over on <a href="https://www.linkedin.com/in/nareshiitg/">LinkedIn</a>.</p>
 
+---
+
 <p align="left">Visit my <a href="https://www.youtube.com/NareshGupta">Youtube</a> channel for improving your coding skills and preparing for interviews. </p>
 
 
